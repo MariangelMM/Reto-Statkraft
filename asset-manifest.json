@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Reto-Statkraft/static/css/main.bbe6ac2b.chunk.css",
+    "main.js": "/Reto-Statkraft/static/js/main.487a2a3f.chunk.js",
+    "main.js.map": "/Reto-Statkraft/static/js/main.487a2a3f.chunk.js.map",
+    "runtime-main.js": "/Reto-Statkraft/static/js/runtime-main.702fbc90.js",
+    "runtime-main.js.map": "/Reto-Statkraft/static/js/runtime-main.702fbc90.js.map",
+    "static/js/2.212ac606.chunk.js": "/Reto-Statkraft/static/js/2.212ac606.chunk.js",
+    "static/js/2.212ac606.chunk.js.map": "/Reto-Statkraft/static/js/2.212ac606.chunk.js.map",
+    "index.html": "/Reto-Statkraft/index.html",
+    "precache-manifest.5ee2a6293b3c6f6beaf29cc032e77f03.js": "/Reto-Statkraft/precache-manifest.5ee2a6293b3c6f6beaf29cc032e77f03.js",
+    "service-worker.js": "/Reto-Statkraft/service-worker.js",
+    "static/css/main.bbe6ac2b.chunk.css.map": "/Reto-Statkraft/static/css/main.bbe6ac2b.chunk.css.map",
+    "static/js/2.212ac606.chunk.js.LICENSE.txt": "/Reto-Statkraft/static/js/2.212ac606.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.702fbc90.js",
+    "static/js/2.212ac606.chunk.js",
+    "static/css/main.bbe6ac2b.chunk.css",
+    "static/js/main.487a2a3f.chunk.js"
+  ]
+}
