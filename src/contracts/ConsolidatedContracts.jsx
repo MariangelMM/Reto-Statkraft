@@ -30,7 +30,7 @@ const ConsolidatedContracts = () => {
             <div className="m-2 container-table-contracts">
                 <h3 className="text-center">Contratos</h3>
                 <section id="table" className="table-responsive-sm">
-                    <Table striped bordered hover className="table-bordered">
+                    <Table className="table-bordered">
                         <thead className="m-5 border border-info ">
                             <tr className="m-5 table-info" >
                                 <th>N° Contrato</th>

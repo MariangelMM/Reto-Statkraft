@@ -1,7 +1,8 @@
 import React from 'react';
 import Header from '../Header';
 import { Link } from 'react-router-dom';
-import '../../style/chosecontracts.css'
+import '../../style/chosecontracts.css';
+import img from '../../img/Frame1.png';
 
 const ContrractsGoods = (props) => {
 
@@ -76,6 +77,35 @@ const ContrractsGoods = (props) => {
             </div >
         )
     }
+    return (
+        <div>
+            <Header />
+            <div className="container">
+                <div className="col-sm-10">
+                    <br />
+                    <div className="d-flex justify-content-center">
+                        <div className="borde fondo mt-5 col-sm-5">
+                            <div className="row justify-content-center p-4">
+                                <h4 className="text-center col-sm-6">Regresar a Inicio</h4>
+                                <img src={img} className="card-img-top" alt="..." />
+
+                            </div>
+                        </div>
+                    </div>
+                    <br />
+
+                    <div className="m-5 d-flex justify-content-center">
+                        <Link className="col-sm-3  btn btn-primary"
+                            to={{
+                                pathname: "/",
+                            }}>Inicio</Link>
+
+                    </div>
+                </div>
+            </div>
+        </div >
+
+    )
 }
 
 export default ContrractsGoods;

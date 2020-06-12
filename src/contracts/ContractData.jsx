@@ -156,11 +156,11 @@ const ContractData = ({ search, searchDataAntecedentes, searchSellOption, search
                         <label htmlFor="">
                             Nombre de la empresa
                         </label>
-                        <input type="text" onChange={nameProvider} />
+                        <input className="mt-1" type="text" onChange={nameProvider} />
                         <label htmlFor=""> RUC </label>
-                        <input type="text" onChange={rucProvider} />
+                        <input className="mt-1" type="text" onChange={rucProvider} />
                         <label htmlFor="">Dirección </label>
-                        <input type="text" onChange={addressProvider} />
+                        <input className="mt-1" type="text" onChange={addressProvider} />
                         <br />
                         <label htmlFor="">
                             Nombre del representante de la empresa
